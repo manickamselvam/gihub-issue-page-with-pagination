@@ -1,0 +1,24 @@
+.issue-div{
+    border-bottom: 1px solid black;
+    padding: 0.5em 0 0.5em 0.8em;
+}
+.issue-div:hover{
+    background-color: #f7f8fa;
+}
+.list-heading{
+    display: flex;
+    align-items: center;
+}
+.icon{
+    display: flex !important;
+}
+.issue-title{
+    padding: 0 0 0 0.3em;
+    font-size: 1em;
+}
+.heading{
+    padding: 0 0 0 0.2em;
+}
+.paragraph{
+    padding: 0 0 0 2em;
+}
